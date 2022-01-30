@@ -6,6 +6,7 @@ int main(void){
   char arr[7];
     scanf("%s", arr);
   puts("\n");
-  printf("%s\n", arr);
+  printf("%s", arr);
+  puts("\n");
  return 0;
 }
